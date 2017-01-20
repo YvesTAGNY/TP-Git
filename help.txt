@@ -1,1 +1,3 @@
 git est cool
+
+comment revenir au précedant commit
